@@ -1,0 +1,3 @@
+jdbc:mysql://localhost/buspassdb
+root
+root1234
